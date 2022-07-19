@@ -6,5 +6,5 @@ int main()
     char c = "A";
 
     std::cout << i << " " << c << std::endl;
-    retrun 0;
+    retrun 0;                                                                                                                                                                                                                                                                                                                x
 }
