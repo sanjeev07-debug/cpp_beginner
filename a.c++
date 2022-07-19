@@ -1,4 +1,4 @@
-#include<iosteam>
+
 int main()
 {
     int i = 4;
@@ -6,5 +6,5 @@ int main()
     char c = "A";
 
     std::cout << i << " " << c << std::endl;
-    retrun 0;                                                                                                                                                                                                                                                                                                                x
+    return 0;
 }
